@@ -1,0 +1,19 @@
+{
+  "name": "entrevista_practica_cypress_peter_diaz",
+  "version": "1.0.0",
+  "description": "Entrevista tecnica sobre Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "QA",
+    "Automation"
+  ],
+  "author": "Peter Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
